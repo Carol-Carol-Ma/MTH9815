@@ -1,4 +1,4 @@
-# MTH 9815 HW1
+# MTH 9815
 ## Teammate
 George,Thomas
 
