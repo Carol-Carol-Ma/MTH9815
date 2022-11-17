@@ -1,4 +1,4 @@
-# MTH 9815
+# MTH 9815 Software Engineering for Finance
 ## Teammate
 George,Thomas
 
