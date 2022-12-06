@@ -10,3 +10,6 @@ Ma,Congrong
 
 ## Content
 ### HW1
+### HW2
+#### Exercise 1
+#### Exercise 2&3
