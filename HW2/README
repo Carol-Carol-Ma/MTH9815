@@ -1,7 +1,0 @@
-Compiled in g++
-
-In command line, test with $
-echo "alias g++='g++ -std=c++11'" >> ~/.bashrc'
-source ~/.bashrc
-$
-to avoid "warning: 'auto' type specifier is a C++11 extension [-Wc++11-extensions]"
